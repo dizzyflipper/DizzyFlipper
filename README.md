@@ -7,6 +7,5 @@ A SkyBlock Flipping/Sniping Mod.
 - `/dizzy` - Shows the config GUI.
 - `/dizzy help` - Shows the help message containing all the subcommands and their usage.
 - `/dizzy toggle` - Enables the mod to return a list of suggested items to flip whenever one is found.
-- Discord - https://discord.gg/tdvj796DAJ
 
 # We are not liable for any coins you lost by buying items without checking, flips/snipes aren't always perfect.
